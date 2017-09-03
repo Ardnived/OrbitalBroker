@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 624ed2d74a0274ae896087fcf9ac15a0
+timeCreated: 1499326805
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - container: {instanceID: 0}
+  - listItemTemplate: {instanceID: 0}
+  - headerTemplate: {fileID: 1782329899768988, guid: 7c6dc889de1454a2bb0bc563cfdbdefe,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

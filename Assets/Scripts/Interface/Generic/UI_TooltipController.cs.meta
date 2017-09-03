@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c92e6bb9fcec046859d13ff08a25c0b4
+timeCreated: 1499062976
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - debugTexture: {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
